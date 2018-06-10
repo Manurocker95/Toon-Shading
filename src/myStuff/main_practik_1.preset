@@ -1,0 +1,38 @@
+/*!
+ * <preset name="Default" stepSize="0.4">
+ *  axesLength = <1.0|1.0|100.0> 100.0
+ *  backgroundColor = <0.004, 0.004, 0.004> 0.269565, 0.530434, 0.469565
+ *  boxLengthX = <0.49499997|0.1|10.0> 5.0
+ *  boxLengthY = <0.49499997|0.1|10.0> 5.0
+ *  boxLengthZ = <0.49499997|0.1|10.0> 5.0
+ *  coneHeight = <0.49499997|0.1|10.0> 9.018177
+ *  coneRadius = <0.49499997|0.1|10.0> 3.2090948
+ *  coneTessellation = <1|8|64> 64
+ *  currentShapeID = 0
+ *  cylinderHeight = <0.49499997|0.1|10.0> 5.0
+ *  cylinderRadius = <0.49499997|0.1|10.0> 2.0
+ *  cylinderTessellation = <1|8|64> 32
+ *  lineP1 = <1.0, 1.0, 1.0|-10.0, -10.0, -10.0|10.0, 10.0, 10.0> -10.0, -10.0, -10.0
+ *  lineP2 = <1.0, 1.0, 1.0|-10.0, -10.0, -10.0|10.0, 10.0, 10.0> 10.0, 10.0, 10.0
+ *  planeSizeX = <1.0|1.0|200.0> 150.0
+ *  planeSizeZ = <1.0|1.0|200.0> 150.0
+ *  planeTessellationX = <1.0|1.0|50.0> 20.0
+ *  planeTessellationZ = <1.0|1.0|50.0> 20.0
+ *  quadHalfLength = <0.7|1.0|15.0> 4.0
+ *  sphereRadius = <0.45|1.0|10.0> 3.0
+ *  sphereTessellation = <1|4|64> 24
+ *  teapotTessellation = <1|1|16> 1
+ *  torusInnerRadius = <0.49499997|0.1|10.0> 1.0
+ *  torusKnotDistance = <1.0|1.0|25.0> 5.0
+ *  torusKnotNumRings = <1|16|256> 64
+ *  torusKnotNumSegments = <1|16|256> 64
+ *  torusKnotP = <1|1|16> 3
+ *  torusKnotQ = <1|1|16> 4
+ *  torusKnotRadius = <0.49499997|0.1|10.0> 1.0
+ *  torusOuterRadius = <0.49499997|0.1|10.0> 2.0
+ *  torusRings = <1|4|64> 24
+ *  torusSides = <1|4|64> 24
+ *  trefoilSlices = <1|16|256> 128
+ *  trefoilStacks = <1|16|128> 32
+ * </preset>
+ */
